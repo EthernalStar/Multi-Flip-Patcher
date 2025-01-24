@@ -22,7 +22,7 @@ If you want to hide the Application Window just click on the Tray-Icon on the Ta
 
 ### Main Page
 
-![Main Page Screenshot](./Images/Multi Flip Patcher 01.png?raw=true)
+![Main Page Screenshot](./Images/Multi%20Flip%20Patcher%2001.png?raw=true)
 
 Before you do anything you should select a Patch Format with the Radio Buttons.
 You can choose between **BPS** and **IPS**. As of now you can only mass apply all IPS or BPS Patchers at once.
@@ -61,7 +61,7 @@ Finally the Button **Export as CSV** will export the whole String Grid as CSV Fi
 
 ### About Page
 
-![About Page Screenshot](./Images/Multi Flip Patcher 02.png?raw=true)
+![About Page Screenshot](./Images/Multi%20Flip%20Patcher%2002.png?raw=true)
 
 By clicking the large Icon on the Left you will be introduced to the About Page where useful Information about the **License** or recent **Changelog** can be found.
 There are also links to my Repositories on [Github](https://github.com/EthernalStar) or [Codeberg](https://codeberg.org/EthernalStar) where you could always find the latest Version.
