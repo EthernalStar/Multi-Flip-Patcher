@@ -88,7 +88,7 @@ To do this just open the .lpr file and you should be able to edit and compile th
 
 ## Planned Features
 
-* Currently there are no planned Features.
+* Auto decide actions for all IPS and BPS Patches at the same time.
 
 ## Changelog
 
