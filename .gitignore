@@ -2,4 +2,5 @@ project1.exe
 Multi Flip Patcher.ini
 backup/
 lib/
-MFP/Defaults/*
+MFP/Defaults/*.z64
+MFP/Defaults/*.sfc
