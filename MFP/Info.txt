@@ -1,0 +1,11 @@
+Flips Folder: 
+
+ * Folder that contains the Patcher Floating IPS (Flips) v1.31 made by Alcaro (https://www.smwcentral.net/?p=profile&id=1686)
+ * The Original File can be found at the following Page: https://www.smwcentral.net/?p=section&a=details&id=11474
+ * No Modifications where made and the Sourcecode is also included as stated with the GPL v3 License.
+ * Also available on GitHub: https://github.com/Alcaro/Flips
+
+Defaults Folder:
+
+ * Drop your default ROM Files into this Folder and give them a short Name so you can quickly select them if they are needed more often.
+ * Example: SMW.sfc, SMB.nes oder SM64.z64
