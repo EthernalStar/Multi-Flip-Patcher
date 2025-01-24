@@ -71,8 +71,9 @@ If you have questions please don't hesitate to contact me over [E-Mail](mailto:N
 
 Here are some situations where I use this Tool:
 
-* Patching a great amount of ROM Files.
+* Patching a great amount of ROM Files at the same time.
 * Creating Patches of your ROM Hacks for better Storage.
+* Verify everything with CRC32 Checksums.
 
 ## Building
 
