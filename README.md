@@ -2,12 +2,12 @@
 
 **Multi Flip Patcher** is a Tool to apply or create multiple IPS or BPS Patches at the same time.
 
-It utilizes the Floating IPS Patcher or Flips made by Alcaro who can be found on the following Pages:
+It utilizes the Floating IPS Patcher or Flips made by Alcaro which can be found on the following Pages:
 
  * [SMWCentral](https://www.smwcentral.net/?p=section&a=details&id=11474)
  * [Github](https://github.com/Alcaro/Flips)
 
-The Tool was tested with Windows 10 but should also work with Windows 11.
+The Tool was tested with Windows 10 and Windows 11.
 
 ## Documentation
 
